@@ -1,0 +1,1 @@
+let (isLoading, data) = FetchHook.useFetch("https://google.com")
